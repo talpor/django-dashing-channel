@@ -5,5 +5,10 @@
         "name": "weather",
         "description": "Simple Dashing widget to display weather info. Uses Yahoo's weather API.",
         "webpage": "https://github.com/individuo7/dj-dashing-weather-widget"
+    }, {
+        "repository": "https://cdn.rawgit.com/torstenfeld/django-dashing-widget-knob/tree/master/widgets/knob/",
+        "name": "knob",
+        "description": "Simple Django Dashing widget to display a knob chart. Using jQuery Knob.",
+        "webpage": "https://github.com/torstenfeld/django-dashing-widget-knob"
     }]
 }
