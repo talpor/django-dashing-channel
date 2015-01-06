@@ -10,5 +10,10 @@
         "name": "knob",
         "description": "Simple Django Dashing widget to display a knob chart. Using jQuery Knob.",
         "webpage": "https://github.com/torstenfeld/django-dashing-widget-knob"
+    }, {
+        "repository": "https://cdn.rawgit.com/torstenfeld/django-dashing-widget-numberchange/master/widgets/numberchange/",
+        "name": "numberchange",
+        "description": "Modified version of the default django-dashing number widget where value is compared to a previous value. Change is indicated through an icon.",
+        "webpage": "https://github.com/torstenfeld/django-dashing-widget-numberchange"
     }]
 }
