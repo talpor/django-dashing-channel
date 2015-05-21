@@ -1,19 +1,59 @@
 {
     "schema_version": "1",
     "widgets": [{
-        "repository": "https://cdn.rawgit.com/individuo7/dj-dashing-weather-widget/master/widgets/weather/",
-        "name": "weather",
-        "description": "Simple Dashing widget to display weather info. Uses Yahoo's weather API.",
-        "webpage": "https://github.com/individuo7/dj-dashing-weather-widget"
+        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/v2.2.3/widgets/assignment/",
+        "name": "assignment",
+        "description": "A duty assignment widget. Also provides optional expiry and fallback assignee options.",
+        "webpage": "https://github.com/mverteuil/widget-party"
     }, {
+        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/v2.2.3/widgets/buildstatus/",
+        "name": "buildstatus",
+        "description": "A builder state widget for your continuous integration tool (i.e. Jenkins).",
+        "webpage": "https://github.com/mverteuil/widget-party"
+    }, {
+        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/v2.2.3/widgets/commitlist/",
+        "name": "commitlist",
+        "description": "A recent Github commits widget.",
+        "webpage": "https://github.com/mverteuil/widget-party"
+    }, {
+        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/v2.2.3/widgets/fatlist/",
+        "name": "fatlist",
+        "description": "A list widget with a wider stature.",
+        "webpage": "https://github.com/mverteuil/widget-party"
+    }, {
+        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/v2.2.3/widgets/fatnumber/",
+        "name": "fatnumber",
+        "description": "A number widget with a wider stature.",
+        "webpage": "https://github.com/mverteuil/widget-party"
+    }, {
+        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/v2.2.3/widgets/informednumber/",
+        "name": "informednumber",
+        "description": "A number widget for metrics that lack meaningfulness without additional context.",
+        "webpage": "https://github.com/mverteuil/widget-party"
+    }, {        
         "repository": "https://cdn.rawgit.com/torstenfeld/django-dashing-widget-knob/master/widgets/knob/",
         "name": "knob",
         "description": "Simple Django Dashing widget to display a knob chart. Using jQuery Knob.",
         "webpage": "https://github.com/torstenfeld/django-dashing-widget-knob"
     }, {
+        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/v2.2.3/widgets/linklist/",
+        "name": "linklist",
+        "description": "A list of messages with clickable links.",
+        "webpage": "https://github.com/mverteuil/widget-party"
+    }, {
         "repository": "https://cdn.rawgit.com/torstenfeld/django-dashing-widget-numberchange/master/widgets/numberchange/",
         "name": "numberchange",
         "description": "Modified version of the default django-dashing number widget where value is compared to a previous value. Change is indicated through an icon.",
         "webpage": "https://github.com/torstenfeld/django-dashing-widget-numberchange"
+    }, {
+        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/v2.2.3/widgets/sizednumber/",
+        "name": "sizednumber",
+        "description": "A number widget with the power of dynamic font sizing.",
+        "webpage": "https://github.com/mverteuil/widget-party"
+    }, {
+        "repository": "https://cdn.rawgit.com/individuo7/dj-dashing-weather-widget/master/widgets/weather/",
+        "name": "weather",
+        "description": "Simple Dashing widget to display weather info. Uses Yahoo's weather API.",
+        "webpage": "https://github.com/individuo7/dj-dashing-weather-widget"
     }]
 }
