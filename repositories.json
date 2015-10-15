@@ -11,7 +11,7 @@
         "description": "A builder state widget for your continuous integration tool (i.e. Jenkins).",
         "webpage": "https://github.com/mverteuil/widget-party"
     }, {
-        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/tree/v2.3/widgets/builderlist/",
+        "repository": "https://cdn.rawgit.com/mverteuil/widget-party/v2.3/widgets/builderlist/",
         "name": "builderlist",
         "description": "A builder list widget for your continuous integration tool (i.e. Jenkins).",
         "webpage": "https://github.com/mverteuil/widget-party"
