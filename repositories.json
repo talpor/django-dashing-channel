@@ -56,7 +56,7 @@
         "description": "A number widget with the power of dynamic font sizing.",
         "webpage": "https://github.com/mverteuil/widget-party"
     }, {
-        "repository": "https://cdn.rawgit.com/individuo7/dj-dashing-weather-widget/master/widgets/weather/",
+        "repository": "https://cdn.rawgit.com/individuo7/dj-dashing-weather-widget/14f917687122f644802ef59e5492b1090325a85c/widgets/weather/",
         "name": "weather",
         "description": "Simple Dashing widget to display weather info. Uses Yahoo's weather API.",
         "webpage": "https://github.com/individuo7/dj-dashing-weather-widget"
